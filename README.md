@@ -4,6 +4,12 @@
 
 - 🌱 **_I’m currently learning_**: Javascript, TypeScript, APIs, and more!
 
+## 🛠 Skills
+
+Linux, Shell/Bash scripting, Git, AWS, PHP, HTML, CSS
+
+![Logo](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Logo](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) ![Logo](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Logo](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Logo](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Logo](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 <!--
 **jzvi12/jzvi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
