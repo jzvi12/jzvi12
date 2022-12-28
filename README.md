@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋, I'm Zvi
+
+- 🔭 **_I’m currently working on_**: Building out my NodeJS Portfolio
+
+- 🌱 **_I’m currently learning_**: Javascript, TypeScript, APIs, and more!
 
 <!--
 **jzvi12/jzvi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
